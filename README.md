@@ -1,4 +1,6 @@
 # A Simple Ruby Facebook Messenger App
+[![gitter](https://img.shields.io/gitter/room/serverless/serverless.svg)](https://gitter.im/chatbotcity/welcome)
+
 Example Facebook Messenger App in Ruby including fast deployments with [https://chatbotcity.com](https://chatbotcity.com)
 
 Learn more about Facebook Messenger apps here: [https://developers.facebook.com/docs/messenger-platform](https://developers.facebook.com/docs/messenger-platform)
