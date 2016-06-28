@@ -10,7 +10,7 @@ Learn more about Facebook Messenger apps here: [https://developers.facebook.com/
 Make sure you have [Ruby](https://www.ruby-lang.org), and [Mechanize](https://github.com/sparklemotion/mechanize) installed.
 
 ```sh
-git clone git@github.com:chatbotcity/ruby-facebook-messenger-app.git # clone this repository
+git clone git@github.com:chatbotcity/ruby-facebook-messenger-starter.git # clone this repository
 cd ruby-facebook-messenger-app
 gem install mechanize
 ```
