@@ -61,3 +61,5 @@ These functions are:
   set_var(key, value) #key and value are both strings
   get_var(key)
 ```
+## License
+All software in this repository is open source under The MIT License
