@@ -61,5 +61,9 @@ These functions are:
   set_var(key, value) #key and value are both strings
   get_var(key)
 ```
+## Example Messenger bots hosted on Chatbotcity
+ - [The ChatbotCity Bot](https://m.me/chatbotcity)
+ - [BlackJack Bot](https://www.messenger.com/t/1040239006064521)
+
 ## License
 All software in this repository is open source under The MIT License
